@@ -1,0 +1,33 @@
+body{
+    background-color: slategray;
+}
+.container-fluid{
+    background-color: black;
+    color: white;
+    /* meletakan form ke tengah */
+    margin: 80px auto;
+    padding: 30px 20px;
+    border-radius: 20px;
+}
+.head{
+    /* membuat text ditengah */
+    text-align: center;
+}
+.mb-3{
+    width: 50% auto;
+    margin-left: 25% auto;
+    margin-right: 30% auto;
+    /* text-align: center; */
+}
+.btn {
+    margin-left: 50% auto;
+    margin-right: auto;
+    /* membuat button ditengah
+    text-align: center;
+    justify-content: center;
+    align-items: center; */
+}
+.hhr{
+    color: white auto;
+}
+
